@@ -39,7 +39,7 @@ export default function login() {
       <br/>
       <button className="border-2 p-[8px] rounded-2xl border-white" onClick={login } type="button">Click here to login</button>
       <br />
-      <Link href="/login">Login</Link>
+      <Link href="/signup">Signup</Link>
     </div>
   );
 }
